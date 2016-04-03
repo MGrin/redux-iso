@@ -23,6 +23,7 @@
     "gulp-nodemon": "latest",
     "gulp-sync": "latest",
     "redux-devtools": "latest",
+    "vinyl-named": "latest",
     "webpack-stream": "latest"
   }
 }
