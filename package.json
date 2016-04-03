@@ -1,0 +1,28 @@
+{
+  "name": "redux-iso",
+  "version": "0.0.1",
+  "description": "Isomorphic app with redux",
+  "main": "index.js",
+  "author": "MGrin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "jade": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "redux": "latest",
+    "socket.io": "latest"
+  },
+  "devDependencies": {
+    "babel-plugin-add-module-exports": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "gulp": "latest",
+    "gulp-babel": "latest",
+    "gulp-nodemon": "latest",
+    "gulp-sync": "latest",
+    "redux-devtools": "latest",
+    "webpack-stream": "latest"
+  }
+}
